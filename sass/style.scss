@@ -1,0 +1,16 @@
+/* 
+    Template main files
+*/ 
+
+/* BOOTSTRAP FILES */ 
+@import'../node_modules/bootstrap/scss/bootstrap.scss';
+
+/* FONT-AWESOME FILES */ 
+@import'../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss';
+
+/* OWL-CAROUSEL FILES */ 
+@import'../node_modules/owl.carousel/src/scss/owl.carousel.scss';
+@import'../node_modules/owl.carousel/src/scss/owl.theme.default.scss';
+
+// TEMPLATES
+@import'./includes/header'
